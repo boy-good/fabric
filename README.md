@@ -19,6 +19,10 @@ java sdk demo for fabric
 ## query chaincode fabcar by key:CAR1
 ![chaincode query](https://github.com/boy-good/fabric/blob/master/images/Query.png)
 
+## 使用 cli 查询账本
+
+docker exec cli peer chaincode query -C mychannel -n fabcar -c '{"Args":["queryCar","CAR1"]}'
+
 # HUAWEI CLOUD 华为云区块链服务BCS
 
 购买区块链服务 填写相关配置即快速部署节点（私链或者联盟链）
