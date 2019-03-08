@@ -22,6 +22,7 @@ java sdk demo for fabric
 ## 使用 cli 查询账本
 
 docker exec cli peer chaincode query -C mychannel -n fabcar -c '{"Args":["queryCar","CAR1"]}'
+![CLI query](https://github.com/boy-good/fabric/blob/master/images/CLIQuery.png)
 
 # HUAWEI CLOUD 华为云区块链服务BCS
 
