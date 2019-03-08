@@ -5,6 +5,7 @@ java sdk demo for fabric
 搭建运行Fabric 1.4版本
 
 使用 bootstrap.sh pull docker images & fabric-samples
+
 1、使用 byfn.sh 启动 first-network 网络（一个 orderer,两个 org，每个org有两个 peer）
 
 2、使用 startFabric.sh 启用fabcar chaincode的网络，并在远程用fabric-sdk-java调用
