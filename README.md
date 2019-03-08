@@ -18,3 +18,12 @@ java sdk demo for fabric
 
 ## query chaincode fabcar by key:CAR1
 ![chaincode query](https://github.com/boy-good/fabric/blob/master/images/Query.png)
+
+# HUAWEI CLOUD 华为云区块链服务BCS
+
+购买区块链服务 填写相关配置即快速部署节点（私链或者联盟链）
+
+使用华为云提供的API就可以与链交互，而不用直接使用Fabric SDK
+
+基本版区块链服务虽然免费，但是需要购买云服务器，文件存储等
+
